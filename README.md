@@ -19,13 +19,7 @@ This project simulates a simple e-commerce experience with a clean and user-frie
 C# (.NET Framework / .NET)
 Windows Forms (WinForms)
 Visual Studio
-📸 Screenshots
 
-(Add your app screenshots here)
-Example:
-
-/screenshots/home.png
-/screenshots/cart.png
 🚀 Getting Started
 Prerequisites
 Visual Studio installed
