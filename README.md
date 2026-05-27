@@ -1,5 +1,9 @@
 # shop-manager
 This app contains a windows Form app to manage your shop for free
+
+This app is owend by Afshar
+
+
 🛒 Shop Management App (Windows Forms)
 
 A desktop shopping application built using C# and Windows Forms.
